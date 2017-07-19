@@ -1,0 +1,9 @@
+Rules of usage / terms of use:
+1. Do not edit any of the source code in the Commands directory
+2. Do not (re)sell this product without permission of the owner (Immanuel Bendahan)
+3. Do not (re)sell this product with another name
+4. Immanuel Bendahan is not liable of any problems occuring with the code!
+5. Without accepting this EULA you are not permitted to use OnTime
+By changing the following line (line 9) to true you accept the terms of use / rules of usage
+
+false
